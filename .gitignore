@@ -1,0 +1,32 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы кода
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Логи
+*.log
+
+# Временные файлы браузера
+*.crx
+*.pem
+*.key
+
+# Если будете использовать сборщики (на будущее)
+node_modules/
+dist/
+build/
+*.min.js
+*.min.css
+
+# Секреты
+.env
+*.secret
