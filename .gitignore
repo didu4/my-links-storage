@@ -30,3 +30,6 @@ build/
 # Секреты
 .env
 *.secret
+
+# личные данные
+links-data.js
