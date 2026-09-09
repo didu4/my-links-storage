@@ -1,6 +1,5 @@
 # My Links Storage
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-yellow.svg)](https://chrome.google.com/webstore)
 [![GitHub stars](https://img.shields.io/github/stars/didu4/my-links-storage)](https://github.com/didu4/my-links-storage/stargazers)
 
@@ -17,9 +16,9 @@
 
 ## Возможности
 
-При клипке на кнопку соответствующая ссылка мгновенно копируется в буфер обмена.
-Все ссылки разбиты по категориям.
-Ваши ссылки хранятся локально (файл links-data.js), файл занесен в гитигнор
+- При клике на кнопку соответствующая ссылка мгновенно копируется в буфер обмена.
+- Все ссылки разбиты по категориям.
+- Ваши ссылки хранятся локально (файл links-data.js), файл занесен в гитигнор
 
 ---
 

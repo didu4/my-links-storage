@@ -1,13 +1,8 @@
 const linksData = {
-  "Вход в личный кабинет": [
-    { label: "Сервер 1", url: "https://example1.com/login" },
-    { label: "Сервер 2", url: "https://example2.com/login" },
+  "Категория 1": [
+    { label: "Ссылка 1", url: "https://example1.com/login" },
+    { label: "Ссылка 2", url: "https://example2.com/login" },
   ],
-  "Восстановление пароля": [
-    { label: "Сервер 1", url: "https://example1.com/login" },
-  ],
-  "CDN Зеркала": [{ label: "Сервер 1", url: "https://example1.com/login" }],
-  "Ссылки на клиенты": [
-    { label: "iOS приложение", url: "https://apps.apple.com" },
-  ],
+  "Категория 2": [{ label: "Ссылка 2.1", url: "https://example3.com/login" }],
+  "Категория 3": [{ label: "Ссылка 3.1", url: "https://example4.com/login" }],
 };
